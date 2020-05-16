@@ -1,7 +1,7 @@
 {
     "info": {
         "title": "GTA V Radio",
-        "logo": "station_logo.png"
+        "logo":  "station_logo.png"
     },
     "common": {
         "fileGroups": []
